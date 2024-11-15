@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hello, I’m Dibya Prokash Sarkar, currently based in British Columbia, Canada. Originally from Dhaka, Bangladesh, I pursued my early education at Saint Joseph Higher Secondary School and Notre Dame College before earning a Bachelor’s in Computer Science and Engineering from North South University. My journey then led me to Canada, where I completed my Master’s in Computer Science at the University of Victoria.<br><br>I have a deep interest in Human-Computer Interaction (HCI), with a focus on Social Computing, Accessibility, and Health. Since discovering HCI in 2018, I've been driven by the potential of technology to enhance human life. Currently, I’m a Sessional Lecturer at North Island College in Comox Valley, BC, where I enjoy sharing my passion for computing with my students.
+Hello, I’m Dibya Prokash Sarkar, currently based in British Columbia, Canada. Originally from Dhaka, Bangladesh, I pursued my early education at Saint Joseph Higher Secondary School and Notre Dame College before earning a Bachelor’s in Computer Science and Engineering from North South University. My journey then led me to Canada, where I completed my Master’s in Computer Science at the University of Victoria.<br><br>I have a deep interest in Human-Computer Interaction (HCI), with a focus on Social Computing, Accessibility, and Health. Since discovering HCI in 2018, I've been driven by the potential of technology to enhance human life. Currently, I’m working as a Sessional Lecturer at North Island College in Comox Valley, BC, where I enjoy sharing my passion for computing with my students.
 
 
 ## 🌐 Socials:
